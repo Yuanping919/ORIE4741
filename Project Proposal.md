@@ -3,7 +3,7 @@
 
 In finance, the TED spread is the difference between the three-month Treasury bill and the three-month LIBOR (London Interbank Offer Rate) based in US dollars. 
 To put it another way, the TED spread is the difference between the interest rate on short-term US government debt and the interest rate on interbank loans. The formula of TED spread follow:   
-$$TED spread = 3Month LIBOR rate – 3Month Treasury rate$$.   
+$$TED spread = 3Month  LIBOR  rate – 3Month  Treasury  rate$$.   
 Generally treasury rate and LIBOR rate are very similar, as they have very similar nature (short-term borrowings with low default probability and high liquidity). 
 And in principal the only difference is the small default risk of large banks, as US government is widely considered to have no default risk. When the banks are more likely to default, for example, in financial crisis, the spread will increase. 
 And the market instability, which could be illustrated using stock volatility, should have an impact to the credit risk of these banks. 
