@@ -1,3 +1,2 @@
-# ORIE4741
-ORIE4741 Course Project
+# The relationship between TED spread with S&P 500 volatility
 
