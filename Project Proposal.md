@@ -1,6 +1,6 @@
 # We have changed our topic and the latest update is on the mid term report
-
-# The Relationship between TED spread and volatility
+# Old proposal below
+## The Relationship between TED spread and volatility
 ## Background
 
 In finance, the TED spread is the difference between the three-month Treasury bill and the three-month LIBOR (London Interbank Offer Rate) based in US dollars. 
