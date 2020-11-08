@@ -1,5 +1,5 @@
-# We have changed our topic and the latest update is on the mid term report
-# Old proposal below
+> We have changed our topic and the latest update is on the mid term report.   
+> Old proposal below
 ## The Relationship between TED spread and volatility
 ## Background
 
